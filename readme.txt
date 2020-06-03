@@ -1,0 +1,1 @@
+This is my Repo for the Stage 0 Task of Hngi7. This text will be committed to the repo.
